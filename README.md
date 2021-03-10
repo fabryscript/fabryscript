@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🦾 *I'm Fabrizio, a 16 y.o. programmer who loves good ideas and __good typings__ :), *
+🦾 _I'm Fabrizio, a 16 y.o. programmer who loves good ideas and __good typings__ :)_,
 
 - 🤩 Currently working on [my school "simulated business"'s website](https://github.com/fabry-js/lets-fit-ws) and [the official app](https://github.com/fabry-js/lef-ts)
 - 🦄 Looking forward to learn some good C++ and better ways to improve my code.
