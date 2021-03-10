@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🦾I'm Fabrizio, a 16 y.o. programmer who likes good ideas and __good typings__ :),
+🦾 *I'm Fabrizio, a 16 y.o. programmer who loves good ideas and __good typings__ :), *
 
 - 🤩 Currently working on [my school "simulated business"'s website](https://github.com/fabry-js/lets-fit-ws) and [the official app](https://github.com/fabry-js/lef-ts)
 - 🦄 Looking forward to learn some good C++ and better ways to improve my code.
 - 🎼 I love music (especially classical) & videogames! (also I love trains! 🚃).
 - 📭 You can reach me on my [Instagram](https://instagram.com/fabry-jp) and my [E-Mail](mailto://vivaldifabrizio10@gmail.com).
 - 🐱 Pronouns: he/him.
-- Fun Fact! I also have a [Wikipedia Page(IT)](https://it.wikipedia.org/wiki/Utente:FabrizioPiperno04).
+- ⚡ Fun Fact! I also have a [Wikipedia Page(IT)](https://it.wikipedia.org/wiki/Utente:FabrizioPiperno04).
 
 ***Happy coding***
 
