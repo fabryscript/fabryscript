@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🤩 Currently working on [my school "simulated business"'s website](https://github.com/fabry-js/lets-fit-ws) and [the official app](https://github.com/fabry-js/lef-ts)
 - 🦄 Looking forward to learn some good C++ and better ways to improve my code.
 - 🎼 I love music (especially classical) & videogames! (also I love trains! 🚃).
-- 📭 You can reach me on my [Instagram](https://instagram.com/fabry-jp) and my [E-Mail](mailto://vivaldifabrizio10@gmail.com).
+- 📭 You can reach me on my [Instagram](https://instagram.com/fabry.jp) and my [E-Mail](mailto://vivaldifabrizio10@gmail.com).
 - 🐱 Pronouns: he/him.
 - ⚡ Fun Fact! I also have a [Wikipedia Page(IT)](https://it.wikipedia.org/wiki/Utente:FabrizioPiperno04).
 
