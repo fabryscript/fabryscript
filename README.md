@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🦾 _I'm Fabrizio, a 16 y.o. programmer who loves good ideas and __good typings__ :)_,
+🦾 _I'm Fabrizio, a 17 y.o. programmer who loves good ideas and __good typings__ :)_,
 
 - 🤩 Currently working on some OS and Private project (Good Types included ;) )
 - 🦄 Looking forward to learn some good C++ and better ways to improve my code.
