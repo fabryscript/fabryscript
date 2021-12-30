@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 🦾 _I'm Fabrizio, a 17 y.o. programmer who loves good ideas and __good typings__ :)_,
 
-- 🤩 Currently working on some OS and Private project (Good Types included ;) )
-- 🦄 Looking forward to learn some good C++ and better ways to improve my code.
+- 🤩 Currently free from work
+- 🦄 Looking forward to be a React TS omniscent master
 - 🎼 I love music (especially classical) & videogames! (also I love trains! 🚃).
 - 📭 You can reach me on my [Instagram](https://instagram.com/fabry.jp) and my [E-Mail](mailto://vivaldifabrizio10@gmail.com).
 - 🐱 Pronouns: he/him.
