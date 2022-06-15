@@ -32,4 +32,4 @@ My skills:
 
 ***Happy coding***
 
-- @fabry-js 
+- @fabryscript
