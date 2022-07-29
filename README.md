@@ -1,7 +1,6 @@
 ### Yahho! 👋🏼
 🦾 _I'm Fabrizio, a 17 y.o. programmer who loves coding and well-built libraries ;)_ ,
 
-- Currently I'm working on **[Revenge Dashboard](https://italiarevenge.netlify.app/)**
 - Currently learning Vue 3 (Composition API) & SwiftUI.
 - Fun Fact! I also have a [Wikipedia Page(IT)](https://it.wikipedia.org/wiki/Utente:FabrizioPiperno04).
 
