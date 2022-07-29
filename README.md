@@ -22,11 +22,11 @@ My skills:
 ![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
 
 <a href="https://github.com/fabryscript/lets-fit-ws">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabry-js&repo=lets-fit-ws&show_owner=true&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabryscript&repo=lets-fit-ws&show_owner=true&theme=gotham" />
 </a>
 <br />
 <a href="https://github.com/fabryscript/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabry-js&repo=portfolio&show_owner=true&theme=gotham" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabryscript&repo=portfolio&show_owner=true&theme=gotham" />
 </a>
 <br />
 
