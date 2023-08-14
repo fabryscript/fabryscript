@@ -1,5 +1,5 @@
 ### Yahho! 👋🏼
-🦾 _I'm Fabrizio, a 18 y.o. programmer who loves coding and well-built libraries ;)_ ,
+🦾 _I'm Fabrizio, a programmer who loves coding and well-built libraries ;)_ ,
 
 - Currently refining and forging advanced React skills
 - Fun Fact! I also have a [Wikipedia Page(IT)](https://it.wikipedia.org/wiki/Utente:FabrizioPiperno04).
