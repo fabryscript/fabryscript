@@ -1,34 +1,57 @@
-### Yahho! 👋🏼
-🦾 _I'm Fabrizio, a programmer who loves coding and well-built libraries ;)_ ,
+<div align="center">
+  <img height="150" src="https://media.tenor.com/liFJWwwNPM8AAAAj/dessert-battlefield.gif"  />
+</div>
 
-- Currently refining and forging advanced React skills
-- Fun Fact! I also have a [Wikipedia Page(IT)](https://it.wikipedia.org/wiki/Utente:FabrizioPiperno04).
+###
 
-My skills:
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+</div>
 
-*Frontend*
-![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
-![css3](https://img.shields.io/badge/css3-black?style=flat-square&logo=css3)
-![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![reactdotjs](https://img.shields.io/badge/react-black?style=flat-square&logo=react)
-![vuedotjs](https://img.shields.io/badge/vue.js-black?style=flat-square&logo=vuedotjs)
+###
 
-*Backend*
-![nodedotjs](https://img.shields.io/badge/nodeJS-black?style=flat-square&logo=nodedotjs)
-![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp)
-![python](https://img.shields.io/badge/python-black?style=flat-square&logo=python)
+<h1 align="center">hi there!</h1>
 
-<a href="https://github.com/fabryscript/lets-fit-ws">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabryscript&repo=lets-fit-ws&show_owner=true&theme=gotham" />
-</a>
-<br />
-<a href="https://github.com/fabryscript/portfolio">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fabryscript&repo=portfolio&show_owner=true&theme=gotham" />
-</a>
-<br />
+###
 
-***Happy coding***
+<h3 align="left">👨🏻‍💻  About Me</h3>
 
-- @fabryscript
+###
+
+<p align="left">My name is Fabrizio and I'm a web developer based in Milazzo, a small but lovely city in Italy<br><br>- 🔭 I’m working as a web developer<br>- 📚 I'm currently learning advanced React & Vue patterns<br>- ⚡ In my free time I like to make music and listen to my favourite artists</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white&style=for-the-badge" height="40" alt="ionic logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="40" alt="vscode logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fabryscript&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/thedjalpha">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=thedjalpha" alt="Spotify recently played"  />
+  </a>
+</div>
