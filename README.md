@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">My name is Fabrizio and I'm a web developer based in Milazzo, a small but lovely city in Italy<br><br>- 🔭 I’m working as a web developer<br>- 📚 I'm currently learning advanced React & Vue patterns<br>- ⚡ In my free time I like to make music and listen to my favourite artists</p>
+<p align="left">My name is Fabrizio and I'm a web developer based in Milazzo, a small but lovely city in Italy.<br><br>- 🔭 I’m currently working as a web developer<br>- 📚 I'm currently forging new ideas through React! (dynamic imports go brr)<br>- ⚡ In my free time I like to make music or listen to my favourite artists</p>
 
 ###
 
